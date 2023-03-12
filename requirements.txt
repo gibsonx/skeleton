@@ -6,7 +6,7 @@ progress
 json_tricks
 Cython
 opencv-python
-pycocotools
+pycocotools==2.0.6
 matplotlib
 albumentations
 tk
