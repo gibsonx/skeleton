@@ -1,0 +1,12 @@
+torch==1.13.1
+torchvision
+scipy
+configargparse
+progress
+json_tricks
+Cython
+opencv-python
+pycocotools
+matplotlib
+albumentations
+tk
