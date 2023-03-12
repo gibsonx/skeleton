@@ -1,4 +1,4 @@
-torch==1.13.1
+torch
 torchvision
 scipy
 configargparse
